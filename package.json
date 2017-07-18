@@ -1,0 +1,17 @@
+{
+    "name": "swt-ckmx",
+    "preferGlobal": true,
+    "version": "0.0.1",
+    "author": "Vaslyev Vladimir <vv@messapps.com>",
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10"
+    },
+    "scripts": {
+        "start": "node ./app.js"
+    },
+    "dependencies": {
+        "express": "~3.4.7",
+        "json-lint": "~0.1.0"
+    }
+}
